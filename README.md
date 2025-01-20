@@ -1,5 +1,5 @@
 # FineTuning NLP pour algo de trading avec MT5
-Suite à mon premier projet d'IA de trading algorithmique, j'ai décider de créer un nouveau projet plus complet/complexe.
+Suite à mon premier projet d'IA de trading algorithmique, j'ai décider de créer un nouveau projet plus complet/complexe. Le premier projet était assez brouillons, comme un gros paté, j'aimerai struturé quelque chose de plus simple et rapide a mettre en place.
 
 ## 🚀 Objectif :
 
